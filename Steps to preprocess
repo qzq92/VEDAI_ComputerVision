@@ -1,0 +1,4 @@
+1)Run generate_traintest_annot.py
+2)Run image2traintest.py
+3)Run create_coco_tfrecord.py/.sh
+4)Run train_*_model.sh (Indirectly runs model_main.py)
