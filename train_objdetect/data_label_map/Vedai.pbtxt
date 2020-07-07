@@ -1,0 +1,44 @@
+item {
+    id: 1
+    name: 'car'
+}
+item {
+    id: 2
+    name: 'trucks'
+}
+item {
+    id: 4
+    name: 'tractors'
+}
+item {
+    id: 5
+    name: 'camping cars'
+}
+item {
+    id: 7
+    name: 'motorcycles'
+}
+item {
+    id: 8
+    name: 'buses'
+}
+item {
+    id: 9
+    name: 'vans'
+}
+item {
+    id: 10
+    name: 'others'
+}
+item {
+    id: 11
+    name: 'pickup'
+}
+item {
+    id: 23
+    name: 'boats'
+}
+item {
+    id: 31
+    name: 'Large land vehicles'
+}
